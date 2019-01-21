@@ -1,6 +1,6 @@
 - [首页🌝](/)
 - base
-  - [html](/list/html)
+  - [浏览器渲染机制](/list/base/渲染机制)
   - [css](/list/css)
 - javascript
   - [基础](/list/js-base)
